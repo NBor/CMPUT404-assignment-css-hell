@@ -1,0 +1,125 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: orange;
+  width: 100%;
+  height: 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  padding: 10pt 0 5pt 0;
+}
+
+.p {
+  padding: 10pt 0 10pt 0;
+  border-top-style: dotted;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: dotted;
+}
+
+
+ul {
+  padding: 10pt 0 10pt 0;
+}
+
+a:link {
+    color: orange;
+}
+
+a:hover {
+    color: #309dcf;
+}
+
+#main {
+  margin-right: 2%;
+  margin-left: 2%;
+  width: 96%;
+  height: 100%;
+}
+
+#header {
+  background: -moz-linear-gradient(top, rgba(252,236,252,1) 0%, rgba(251,166,225,1) 50%, rgba(253,137,215,1) 51%, rgba(255,124,216,1) 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(252,236,252,1)), color-stop(50%,rgba(251,166,225,1)), color-stop(51%,rgba(253,137,215,1)), color-stop(100%,rgba(255,124,216,1))); /* Chrome,Safari4+ */
+  width: 100%;
+  height: 10%;
+}
+
+#name {
+  color: yellow;
+  padding: 15pt 0 15pt 0;
+}
+
+#banner {
+  text-align: center;
+  width: 100%;
+  height: 5%;
+  background-color: rgba(255,124,216,1);
+}
+
+.bannerItem {
+  background-color: grey;
+  text-align: center;
+  width: 15%;
+  display: inline;
+  padding: 0% 5% 0% 5%;
+}
+
+#content {
+  width: 100%;
+  height: 84%;
+  background: -moz-linear-gradient(top, chartreuse 27%, rgba(230,240,163,1) 50%, rgba(219,240,67,1) 70%, rgba(195,216,37,1) 79%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(27%,chartreuse), color-stop(50%,rgba(230,240,163,1)), color-stop(70%,rgba(219,240,67,1)), color-stop(79%,rgba(195,216,37,1))); /* Chrome,Safari4+ */
+}
+
+#contentHeader {
+  padding: 10pt 0 0pt 0;
+}
+
+#contentText {
+  padding: 0% 2% 0% 2%;
+  height: 80%;
+  float: left;
+  text-align: left;
+  width: 70%;
+}
+
+#sidebar {
+  background-image: url('hypnotoad_00404356.gif');
+  float: right;
+  text-align: center;
+  width: 24%;
+  height: 100%;
+}
+
+#self {
+  border: 3px solid #000000;
+  position: relative;
+  top: 50px;
+}
+
+#Details {
+  position: relative;
+  top: 50px;
+  height: 60%;
+}
+
+.detail {
+  position: relative;
+  top: 30px;
+  height: 25%;
+  background-color: orange;
+  padding: 5% 0% 5% 0%;
+}

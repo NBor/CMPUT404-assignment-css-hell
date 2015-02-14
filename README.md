@@ -37,3 +37,9 @@ https://www.flickr.com/photos/clarkemckinnon/6970073002/
 
 Font used in part 1:
 http://fonts.googleapis.com/css?family=Tangerine
+
+Part 2 images:
+http://wallpoper.com/wallpaper/hypnotoad-427113
+
+Colour gradients generated with:
+http://www.colorzilla.com/gradient-editor/
