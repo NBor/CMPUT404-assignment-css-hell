@@ -1,0 +1,69 @@
+html {
+  color: black;
+  background-image: url('old_paper.jpg');
+  background-attachment: fixed;
+  background-size: 100%;
+  font-family: 'Tangerine', cursive;
+  font-size: 2em;
+}
+
+body {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+img {
+  box-shadow: 20px 20px 10px #999999;
+}
+
+pre {
+  font-family: 'Tangerine', cursive;
+  text-align: justify;
+}
+
+p {
+  text-align: justify;
+  text-indent: 1.5em;
+  margin-top: 1ex;
+  margin-bottom: 1ex;
+  vertical-align: baseline;
+}
+
+p:first-letter {
+  font-size: 300%;
+  color: brown;
+  padding-right: 1px;
+  position:relative;
+  margin-left: -26px;
+}
+
+h1 {
+  color: #521400;
+  text-decoration: underline;
+  transform: rotate(-2.5deg);
+  text-align: center;
+}
+
+h2 {
+  color: #7A2900;
+  transform: rotate(-1deg);
+}
+
+a {
+  color: grey;
+}
+
+/*
+@media print {
+    a:link, a:visited {color: black; background-color: transparent}
+    a:hover {color: black;  background-color: transparent}
+}
+
+@media screen {
+    a:link, a:visited {color: #0000A0; background-color: transparent}
+    a:hover {color: #0000A0;  background-color: transparent; text-decoration: underline;}
+}
+
+a:link, a:visited {text-decoration: none; background: transparent}
+a:hover {text-decoration: underline; background: transparent}
+*\
