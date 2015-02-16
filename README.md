@@ -23,6 +23,20 @@ Assignment Completed by Neil Borle
 
 Code is licensed under the Apache 2.0 license.
 
+Changes for Assignment Part 1
+=============================
+
+1. Applied old parchment image as a background.
+2. Applied Tangerine font to the documents.
+3. Changed the padding for the body of the document.
+4. Added shadows to all images in the document.
+5. changed the padding and allignment of paragraphs.
+6. Changed all paragraphs to start with a large brown letter.
+7. Changed the colour of h1 headers and rotated them by -2.5deg.
+8. Underlined h1 headers.
+9. Changed the colour of h2 headers and rotated them by -1deg.
+10. Changed achors to be grey.
+
 Citations
 =========
 
