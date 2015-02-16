@@ -52,18 +52,3 @@ h2 {
 a {
   color: grey;
 }
-
-/*
-@media print {
-    a:link, a:visited {color: black; background-color: transparent}
-    a:hover {color: black;  background-color: transparent}
-}
-
-@media screen {
-    a:link, a:visited {color: #0000A0; background-color: transparent}
-    a:hover {color: #0000A0;  background-color: transparent; text-decoration: underline;}
-}
-
-a:link, a:visited {text-decoration: none; background: transparent}
-a:hover {text-decoration: underline; background: transparent}
-*\
