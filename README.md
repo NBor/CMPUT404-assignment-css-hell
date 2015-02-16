@@ -21,13 +21,10 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
-Assignment
-==========
+Assignment Completed by Neil Borle
 
-Completed by Neil Borle
-
-Resources used
-==============
+Citations
+=========
 
 Project Gutenberg Documents:
 A tail of two cities, Beowulf and Emma.
@@ -36,10 +33,10 @@ Background image in part I:
 https://www.flickr.com/photos/clarkemckinnon/6970073002/
 
 Font used in part 1:
-http://fonts.googleapis.com/css?family=Tangerine
+http://www.google.com/fonts/specimen/Tangerine
 
-Part 2 images:
-http://wallpoper.com/wallpaper/hypnotoad-427113
+Part 2 images used:
+http://wallpoper.com/wallpaper/hypnotoad-404356
 
-Colour gradients generated with:
+Colour gradients created with the help of:
 http://www.colorzilla.com/gradient-editor/
